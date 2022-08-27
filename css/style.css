@@ -26,3 +26,12 @@ body {
     content: "";
     display: table;
 }
+.col {
+    float: left;
+    width: 50%;
+}
+
+iframe {
+    z-index: 9000;
+    margin-left: 1em; 
+}
